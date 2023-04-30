@@ -1,0 +1,15 @@
+.button {
+    position: absolute;
+    width: 158.15px;
+    height: 52px;
+    background-color: #3C86F426;
+    color: #0053CF;
+    font-weight: 800;
+    font-size: 16px;
+    border-radius: 12px;
+    border: none;
+}
+
+.button:hover {
+    background-color: rgba(60, 134, 244, 0.35);
+  }
